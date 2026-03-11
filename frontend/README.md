@@ -1,4 +1,4 @@
-# Full-Stack Social Media App UI
+# Full Stack Chatting App UI
 
 ### Built With React and Chakra UI
 

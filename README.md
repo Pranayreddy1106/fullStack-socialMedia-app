@@ -1,4 +1,4 @@
-# Full-Stack Social Media Application
+# Full Stack Chatting Application
 
 A professional, full-stack social media application inspired by Threads, built using the MERN stack. This project features real-time communication, secure authentication, and a responsive modern UI.
 
