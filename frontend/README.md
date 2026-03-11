@@ -1,4 +1,4 @@
-# Threads UI Clone Youtube Tutorial
+# Full-Stack Social Media App UI
 
 ### Built With React and Chakra UI
 

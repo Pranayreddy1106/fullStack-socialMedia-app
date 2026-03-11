@@ -1,8 +1,8 @@
-# Threads Clone - Full-Stack Social Media Application
+# Full-Stack Social Media Application
 
 A professional, full-stack social media application inspired by Threads, built using the MERN stack. This project features real-time communication, secure authentication, and a responsive modern UI.
 
-## Technical Stack
+## Tech Stack
 
 ### Frontend
 - **React.js & Vite**: Modern frontend library and build tool for a fast development experience.
